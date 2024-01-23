@@ -2,6 +2,29 @@
 NEWS
 ======================================================================
 ----------------------------------------------------------------------
+NAIST Japanese Dictionary-0.4.3 (2008/07/07)
+----------------------------------------------------------------------
+- a several reading/pronunciation entry
+  Thanks to Yasutaka SHINDOH
+- Fixed packaging problems 
+- model evaluation (80% training data/20% test data RWCP and other corpus)
+LEVEL (ALL)
+RECALL	0.927251614698438
+PREC	0.928419112525584
+LEVEL 3 (Word/POS/Ctype/Cform/Base)
+RECALL	0.970344130096267
+PREC	0.971565885492011
+LEVEL 2 (Word/POS)
+RECALL	0.970670548007513
+PREC	0.971892714394402
+LEVEL 1 (Word/C-POS)
+RECALL	0.983475762132312
+PREC	0.984714051499662
+LEVEL 0 (SEG)
+RECALL	0.988966004377211
+PREC	0.990211206480856
+
+----------------------------------------------------------------------
 NAIST Japanese Dictionary-0.4.2 (2008/06/16)
 ----------------------------------------------------------------------
 - Fixed several reading/pronunciation entries
